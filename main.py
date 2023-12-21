@@ -1,0 +1,1 @@
+print("Aplicatia mea nebuna")
